@@ -1,0 +1,55 @@
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.deps.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.dev.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csprojAssemblyReference.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csproj.CoreCompileInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfoInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfo.cs
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csprojAssemblyReference.cache
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfoInputs.cache
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfo.cs
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.deps.json
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.json
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.dev.json
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+D:\Ohjelmointi\C#\HuffmanHarjoitus\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.deps.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.dev.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csprojAssemblyReference.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csproj.CoreCompileInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfoInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfo.cs
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.deps.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.dev.json
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csproj.CoreCompileInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfoInputs.cache
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfo.cs
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+M:\Kurssit\Tietorakenteet ja alogritmit\Harjoitustyöt\UudempiHuffman\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csprojAssemblyReference.cache
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.deps.json
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.json
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.runtimeconfig.dev.json
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\bin\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csprojAssemblyReference.cache
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfoInputs.cache
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.AssemblyInfo.cs
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.dll
+D:\Ohjelmointi\GitHub\Huffman\MuokattuPaaohjelma\MuokattuPaaohjelma\Harjoitustyöt\HuffmanTreenausta\obj\Debug\netcoreapp2.1\HuffmanTreenausta.pdb
