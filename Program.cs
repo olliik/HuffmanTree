@@ -37,10 +37,9 @@ namespace HuffmanTreenausta
 {
     class Program
     {
-        static int rivinPituus = 0; // Tarkistusnumero encodaamiseen
+        static int verificationNumber = 0; // Verification number for our encoding
         static void Main(string[] args)
         {
-            /* Accept a text message - possibly more than one line */
             //System.Console.WriteLine("Type in a text message");
             //string str = Console.ReadLine();
 
@@ -49,42 +48,38 @@ namespace HuffmanTreenausta
             HuffmanTree tree = new HuffmanTree();
             tree.BuildTree(str);
 
-            /* 
-                Rakennetaan Encode Table dictionary muotoon 
-                Käytän codeTablea parametrinä myöhemmin EncodeMessage metodissa.
-            */
+            // Generate our encode table as a dictionary.
             Dictionary<Node, string> codeTable = tree.GenerateCodeTable(tree.root, "");
-            TulostaCodeTable(codeTable);
+            PrintOutEncodeTable(codeTable);
 
-            // Käyttäjän syöttämä rivi alkuperäisessä muodossaan.
+            // The original message.
             System.Console.WriteLine();
-            System.Console.WriteLine("Alkuperäinen rivi: ");
+            System.Console.WriteLine("Original message: ");
             System.Console.WriteLine(str);
 
-
-            // Luodaan uusi string muuttuja joka on "binääri" -muodossa..
-            string encodedString = tree.EncodeMessage(codeTable, str, rivinPituus);
+            // Encode the message in 0's and 1's.
+            string encodedString = tree.EncodeMessage(codeTable, str, verificationNumber);
             System.Console.WriteLine();
-            System.Console.WriteLine("Encodattu rivi: ");
+            System.Console.WriteLine("Encoded message: ");
             System.Console.WriteLine(encodedString);
 
 
-            /* Decode() metodille annetaan parametreiksi binaariPuu ja encodattu viesti. */
+            // Decode the message back to it's original form.
             System.Console.WriteLine();
-            System.Console.WriteLine("Decodattu rivi:");
+            System.Console.WriteLine("Decoded message:");
             tree.Decode(tree.root, encodedString);
             System.Console.WriteLine();
             System.Console.WriteLine();
         }
 
-        static void TulostaCodeTable(Dictionary<Node, string> EncodeTable)
+        static void PrintOutEncodeTable(Dictionary<Node, string> EncodeTable)
         {
-            System.Console.WriteLine("Encodattu taulu:");
+            System.Console.WriteLine("Encode table:");
             System.Console.WriteLine("char:\t\tbinary: \tfrequency:");
             foreach (KeyValuePair<Node, string> item in EncodeTable)
             {
                 System.Console.WriteLine(item.Key.c + "\t\t" + item.Value + "\t\t" + item.Key.freq);
-                rivinPituus += item.Key.freq * item.Value.Length;
+                verificationNumber += item.Key.freq * item.Value.Length;
             }
         }
     }

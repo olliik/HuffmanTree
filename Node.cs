@@ -21,12 +21,5 @@ namespace HuffmanTreenausta
             this.left = left;
             this.right = right;
         }
-        
-        
-        public override string ToString()
-        {
-            return c + " " + freq;
-        }
-
     }
 }
