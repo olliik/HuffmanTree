@@ -42,19 +42,6 @@ namespace HuffmanTreenausta
             //sort a list of objects by property: https://stackoverflow.com/a/3309230            
             List<Node> priorityQueue = nodelista.OrderBy(node => node.freq).ToList();
 
-            /* Now do the following:
-                1. Remove two trees from the priority queue, and make them into children of a
-                new node. The new node has a frequency that is the sum of the children’s
-                frequencies; its character field can be left blank.
-            
-                2. Insert this new three-node tree back into the priority queue. 
-            
-                3. Keep repeating steps 1 and 2. The trees will get larger and larger, and there will
-                be fewer and fewer of them. When there is only one tree left in the queue, it is
-                the Huffman tree and you’re done
-                source: http://web.fi.uba.ar/~jvillca/hd/public/books/Data_Structures_and_Algorithms_in_Java_2nd_Edition.pdf
-            */
-
             // Loop the list untill there's only one node left.
             while (priorityQueue.Count > 1)
             {
@@ -76,13 +63,6 @@ namespace HuffmanTreenausta
             return root;
         }
 
-        /*
-            We start at the root of the Huffman tree and follow every possible path to a leaf node. As we go along the path, we remember the sequence of left
-            and right choices, recording a 0 for a left edge and a 1 for a right edge. When we
-            arrive at the leaf node for a character, the sequence of 0s and 1s is the Huffman code
-            for that character. We put this code into the code table at the appropriate index
-            number.
-        */
         public Dictionary<Node, string> GenerateCodeTable(Node _root, string s)
         {
             // If leaf node == has no left or right children nodes.
@@ -129,11 +109,7 @@ namespace HuffmanTreenausta
                 return "Encode error: Encoded string length and the verification number doesn't match.";
             }
         }
-        /* 
-            How do we use this tree to decode the message? For each character you start at the
-            root. If you see a 0 bit, you go left to the next node, and if you see a 1 bit, you go
-            right 
-        */
+
 
         public void Decode(Node _root, string encodedMsg)
         {
